@@ -94,4 +94,4 @@ Session logs typically include:
 
 
 ## Contact
-Add your name + email / lab webpage here.
+annsoniya@gmail.com 
